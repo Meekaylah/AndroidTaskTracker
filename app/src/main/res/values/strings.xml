@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Task Tracker</string>
+    <string name="toolbar_title">Task Tracker</string>
+    <string name="textview_instructions">Add 5 tasks you need to complete:</string>
+    <string name="textview_congrats">Congratulations!</string>
+    <string name="editText_addTasks">Add Task…</string>
+    <string name="button_add">+</string>
+    <string name="button_reset">Clear All</string>
+    <string name="button_share">Share</string>
+    <string name="checkbox_1">1st Task…</string>
+    <string name="checkbox_2">2nd Task…</string>
+    <string name="checkbox_3">3rd Task…</string>
+    <string name="checkbox_4">4th Task…</string>
+    <string name="checkbox_5">5th Task…</string>
+</resources>
